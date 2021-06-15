@@ -1,10 +1,8 @@
 ## Computational supplement for Skalenko et al. (2021)
 
-#### by [Justin B. Kinney](mailto:jkinney@cshl.edu) (to whom technical questions should be addressed)
+This repository contains analysis scripts and processed data for, 
 
-This repository contains analysis scripts and processed data for 
-
-**Skalenko et al. (2021) "Promoter sequence determinants and structural basis of primer dependent transcription initiation in *Escherichia coli*". Proc. Natl. Acad. Sci. USA. *In press*.** [bioRxiv doi:10.1101/2021.04.06.438613](https://www.biorxiv.org/content/10.1101/2021.04.06.438613)
+**Skalenko et al. (2021) "Promoter sequence determinants and structural basis of primer dependent transcription initiation in *Escherichia coli*".  [bioRxiv doi:10.1101/2021.04.06.438613](https://www.biorxiv.org/content/10.1101/2021.04.06.438613), Proc. Natl. Acad. Sci. USA. *In press*.**
 
 To reproduce the computational analyses in this manuscript, execute the following iPython notebooks in this order.
 
@@ -26,3 +24,4 @@ Using pre-processed data in `data/`, these scripts will perform analyses and wri
 
 The resulting graphics will be written to `figures/`. Note that all output directories are already populated with the output of these analyses. 
 
+Please address technical questions about this repository and its contents to [Justin B. Kinney](mailto:jkinney@cshl.edu). More general scientific correspondence about this work should be sent to [Bryce Nickels](mailto:bnickels@waksman.rutgers.edu).
